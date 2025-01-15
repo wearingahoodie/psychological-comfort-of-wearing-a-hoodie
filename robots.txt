@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wearingahoodie.github.io/psychological-comfort-of-wearing-a-hoodie/sitemap.xml
